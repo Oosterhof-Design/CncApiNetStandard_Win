@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>OosterhofDesign.CncApi_Netstandard</RootNamespace>
+    <Company>Oosterhof-Design</Company>
+    <AssemblyVersion>3.4.4.08</AssemblyVersion>
+    <FileVersion>3.4.4.08</FileVersion>
+    <Version>3.4.4.08-beta</Version>
+    <Authors>Sander Oosterhof</Authors>
+    <PackageId>CncApiNetStandard_Win</PackageId>
+    <Product>CncApiNetStandard</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>2020</Copyright>
+    <PackageIcon>NuGetPackageLogo64x64.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <PackageTags>Cnc EdingCnc Gui Api OosterhofDesign Netstandard2.0 Windows</PackageTags>
+    <Description>.NET Wrapper Library for EdingCnc controllers to build customized UI's
+
+This wrapper is written entirely in C# and uses target netframework: .Net Standard 2.0. This wrapper can therefore be used in Untity (Mono runtime). This wrapper is suitable for 64-bit and 32-bit Windows applications.
+
+If the application is 64-bit rename native library: Cncapi64.dll to Cncapi.dll</Description>
+    <RepositoryUrl>https://github.com/Oosterhof-Design/CncApiNetStandard_Win</RepositoryUrl>
+    <PackageProjectUrl>https://www.oosterhof-design.com/cncapinetstandard_win/</PackageProjectUrl>
+    <PackageReleaseNotes>Not backwards compatible with Cncapi_Net(64)</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="www.oosterhof-design.com\**" />
+    <EmbeddedResource Remove="www.oosterhof-design.com\**" />
+    <None Remove="www.oosterhof-design.com\**" />
+    <None Include="..\..\..\License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\..\NuGetPackageLogo64x64.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
