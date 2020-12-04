@@ -23,7 +23,7 @@ If the application is 64-bit rename native library: Cncapi64.dll to Cncapi.dll</
     </dependencies>
   </metadata>
   <files>
-    <file src="F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\Beta\CncApiNet_V4.4.08 -DEV\CncApiNet\bin\Debug\netstandard2.0\CncApiNet.dll" target="lib\netstandard2.0\CncApiNet.dll" />
+    <file src="F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\bin\Debug\netstandard2.0\CncApiNet.dll" target="lib\netstandard2.0\CncApiNet.dll" />
     <file src="F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\License.txt" target="License.txt" />
     <file src="F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\NuGetPackageLogo64x64.png" target="NuGetPackageLogo64x64.png" />
   </files>

@@ -11042,22 +11042,7 @@ namespace OosterhofDesign.CncApi_Netstandard {
         TotalSize = taMax + Offst_Double.TotalSize,
     }
     
-    public enum Offst_KinControldata {
-        
-        dData = 0,
-        
-        dDataRankL_1 = 12,
-        
-        iData = dData + (Offst_Double.TotalSize * dDataRankL_1),
-        
-        iDataRankL_1 = 12,
-        
-        cData = iData + (Offst_Int.TotalSize * iDataRankL_1),
-        
-        cDataRankL_1 = 64,
-        
-        TotalSize = cData + (Offst_Char.TotalSize * cDataRankL_1),
-    }
+
     
     public enum Offst_CncCmdArrayData {
         

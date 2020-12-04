@@ -39,3 +39,12 @@ F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\Ne
 F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\Beta\CncApiNet_V4.4.08\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.csproj.CoreCompileInputs.cache
 F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\Beta\CncApiNet_V4.4.08\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.dll
 F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\Beta\CncApiNet_V4.4.08\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.pdb
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\bin\Debug\netstandard2.0\CncApiNet.deps.json
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\bin\Debug\netstandard2.0\CncApiNet.dll
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\bin\Debug\netstandard2.0\CncApiNet.pdb
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.csprojAssemblyReference.cache
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.AssemblyInfoInputs.cache
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.AssemblyInfo.cs
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.csproj.CoreCompileInputs.cache
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.dll
+F:\S Oosterhof\Mijn Documenten\Visual Studio 2017\Projects\edingcnc\CncApiNet\NetStandard\V4\CncApiNetStandard_Win_3.4.4.08 -DEV\CncApiNet\obj\Debug\netstandard2.0\CncApiNet.pdb

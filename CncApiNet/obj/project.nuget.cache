@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p5NB6ZEsgGVp93gMNSccWYcCAMtfFtQ2LL1OuJMyDJ+dgdA3GscWjouCxgOVtUj1kocRSVyzEuFNAe6PbG7VLQ==",
+  "dgSpecHash": "jt4rDXpYEYiuINfCB4GS5Ohbx4EPkrfCPOErQDzydWHpEkGQTHfRbDlQWLVq8HHbzCx1AYNHd8keME6uXLKItA==",
   "success": true,
-  "projectFilePath": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\Beta\\CncApiNet_V4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj",
+  "projectFilePath": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\V4\\CncApiNetStandard_Win_3.4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sander Oosterhof\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Sander Oosterhof\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

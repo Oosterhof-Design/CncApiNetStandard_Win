@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\Beta\\CncApiNet_V4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj": {}
+    "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\V4\\CncApiNetStandard_Win_3.4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj": {}
   },
   "projects": {
-    "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\Beta\\CncApiNet_V4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj": {
+    "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\V4\\CncApiNetStandard_Win_3.4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj": {
       "version": "3.4.4.8-beta",
       "restore": {
-        "projectUniqueName": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\Beta\\CncApiNet_V4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj",
+        "projectUniqueName": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\V4\\CncApiNetStandard_Win_3.4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj",
         "projectName": "CncApiNetStandard_Win",
-        "projectPath": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\Beta\\CncApiNet_V4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj",
+        "projectPath": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\V4\\CncApiNetStandard_Win_3.4.4.08 -DEV\\CncApiNet\\CncApiNet.csproj",
         "packagesPath": "C:\\Users\\Sander Oosterhof\\.nuget\\packages\\",
-        "outputPath": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\Beta\\CncApiNet_V4.4.08 -DEV\\CncApiNet\\obj\\",
+        "outputPath": "F:\\S Oosterhof\\Mijn Documenten\\Visual Studio 2017\\Projects\\edingcnc\\CncApiNet\\NetStandard\\V4\\CncApiNetStandard_Win_3.4.4.08 -DEV\\CncApiNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
